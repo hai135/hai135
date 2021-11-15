@@ -48,6 +48,15 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hai135&theme=tokyonight&layout=compact" />
 </p>
 
+### My Projects ✨:
+  
+<a href="https://github.com/Davekibh/Background-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hai135&repo=weather-app&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/Background-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hai135&repo=task-manager-api&theme=tokyonight" />
+</a>
 <!--
 **hai135/hai135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
