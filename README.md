@@ -50,11 +50,11 @@
 
 ### My Projects ✨:
   
-<a href="https://github.com/Davekibh/Background-generator">
+<a href="https://github.com/hai135/weather-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hai135&repo=weather-app&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Background-generator">
+<a href="https://github.com/hai135/task-manager-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hai135&repo=task-manager-api&theme=tokyonight" />
 </a>
 <!--
