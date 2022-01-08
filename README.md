@@ -60,9 +60,8 @@
 <a href="https://github.com/hai135/task-manager-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hai135&repo=task-manager-api&theme=tokyonight" />
 </a>
-<br/>
 
-<a href="https://github.com/hai135/task-manager-api">
+<a href="https://github.com/hai135/eshop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hai135&repo=eshop&theme=tokyonight" />
 </a>
 <!--
