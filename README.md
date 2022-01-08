@@ -61,8 +61,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hai135&repo=task-manager-api&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/hai135/eshop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hai135&repo=eshop&theme=tokyonight" style="margin-top: 5px;" />
+<a href="https://github.com/hai135/eshop" style="margin-top: 5px;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hai135&repo=eshop&theme=tokyonight"  />
 </a>
 <!--
 **hai135/hai135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
